@@ -1,6 +1,6 @@
-import MyLayout from '../components/Layout';
+import MyLayout from '../components/HomeLayout';
 import React from "react";
-import MyTable from '../components/Table';
+import MyTable from '../components/HomeTable';
 
 export default function Home() {
   return (

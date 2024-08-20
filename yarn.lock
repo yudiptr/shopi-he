@@ -208,6 +208,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.0.tgz#a5417ae8427873f1dd08b70b3574b453e67b5f7f"
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
+"@faker-js/faker@^8.4.1":
+  version "8.4.1"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-8.4.1.tgz#5d5e8aee8fce48f5e189bf730ebd1f758f491451"
+  integrity sha512-XQ3cU+Q8Uqmrbf2e0cIC/QN43sTBSC8KF12u29Mb47tWrt2hAgBXSgpZMj4Ao8Uk0iJcU99QsOCaIL8934obCg==
+
 "@formatjs/ecma402-abstract@2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-2.0.0.tgz#39197ab90b1c78b7342b129a56a7acdb8f512e17"
@@ -3163,10 +3168,11 @@ slash@^3.0.0:
     antd "^5.20.2"
     babel-plugin-import "^1.13.8"
     next "14.2.5"
+    next-intl "^3.17.4"
     next-transpile-modules "^10.0.1"
     react "^18"
     react-dom "^18"
-    sopi-he "file:../../../AppData/Local/Yarn/Cache/v6/npm-sopi-he-0.1.0-a6fcfe43-d4d7-4da6-b24e-cb6d7146e6f8-1724167561019/node_modules/sopi-he"
+    sopi-he "file:../../../AppData/Local/Yarn/Cache/v6/npm-sopi-he-0.1.0-17915f57-4939-4ef9-a60e-064cc4284248-1724168274488/node_modules/sopi-he"
 
 source-map-js@^1.0.2, source-map-js@^1.2.0:
   version "1.2.0"
